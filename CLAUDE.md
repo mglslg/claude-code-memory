@@ -5,7 +5,7 @@
 本文档是 LLM 理解项目的入口，采用 **自顶向下** 的检索逻辑,检索优先级如下：
 
 ```
-CLAUDE.md → context/ → doc/ → scratch/ → archive/
+CLAUDE.md → context/ → doc/ → tasks/ -> scratch/ → archive/
 ```
 
 ---
